@@ -7,7 +7,7 @@ Gosto de transformar ideias em interfaces funcionais, intuitivas e visualmente a
   <a href="https://www.linkedin.com/in/anamattos-dev/" target="_blank"><img alt="linkedin-ana-mattos" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-##
+### Minhas {Habilidades} 🌱
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
